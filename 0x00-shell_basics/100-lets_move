@@ -1,2 +1,2 @@
 #!/bin/bash
-my [[:upper:]]* /tmp/u
+mv [[:upper:]]* /tmp/u
